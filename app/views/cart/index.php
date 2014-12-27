@@ -8,4 +8,7 @@
  */
 
 echo "hello world";
+
+echo "Hi there, bitch.";
+
 ?>
