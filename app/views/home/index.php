@@ -15,7 +15,7 @@
         <!-- HEADER -->
         <div id="header">
             <div id="logo">
-                <img class="head-logo" src="../public/images/head-banner.jpg">
+                <img class="head-logo" src="images/head-banner.jpg">
             <div id="navbar">
                 <ul>
                     <li><a href="../public">Home</a></li>
